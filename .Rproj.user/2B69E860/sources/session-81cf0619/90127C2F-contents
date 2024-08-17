@@ -1,0 +1,15 @@
+---
+title: "Post With Code"
+author: "Harlow Malloc"
+date: "2024-08-17"
+categories: [news, code, analysis]
+image: "image.jpg"
+engine: jupyter
+format: live-html
+---
+
+```{webr}
+for (x in 1:5) {
+  print(x ** 2)
+}
+```
